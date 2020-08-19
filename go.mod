@@ -1,3 +1,3 @@
-module github.com/kingofjim/leamialer
+module github.com/kingofjim/leamailer
 
 go 1.14
